@@ -25,7 +25,7 @@ export interface ChangePageAction extends Action {
 export interface SearchCharactersAction extends Action {
     type: 'SEARCH_CHARACTERS',
     payload: string
-}
+} 
 
 export interface SearchCharactersSuccessAction extends Action {
     type: 'SEARCH_CHARACTERS_SUCCESS',
@@ -58,7 +58,7 @@ export interface RemoveAllFromFavoritesAction extends Action {
  | InitialFetchOfCharactersSuccessAction
  | InitialFetchOfCharactersErrorAction
  | ChangePageAction
- | SearchCharactersAction 
+ | SearchCharactersAction
  | SearchCharactersSuccessAction 
  | SearchCharactersErrorAction
  | ResetSearchAction
