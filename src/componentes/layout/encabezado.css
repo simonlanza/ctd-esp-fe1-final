@@ -4,6 +4,7 @@ header {
   width: calc(100% - 60px);
   color: black;
   padding: 25px 30px;
+  background-color: #8Bcf21;
 }
 
 header > div {
@@ -14,7 +15,8 @@ header > div {
 }
 
 header > div h2{
-  margin: 0
+  margin: 0;
+  color: #477385;
 }
 
 header > div nav ul {
@@ -31,12 +33,12 @@ header > div nav ul li {
 header > div nav ul li a {
   padding: 5px 20px;
   text-decoration: none;
-  color: black;
+  color: #477385;
   opacity: 0.8;
   font-size: 16px;
   font-weight: 500;
 }
 
 header > div nav ul li a:hover {
-  color: rgba(57, 146, 255, 1);
+  color: 	#e89ac7;
 }
