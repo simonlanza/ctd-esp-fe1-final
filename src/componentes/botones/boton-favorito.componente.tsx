@@ -13,7 +13,7 @@ interface IFavoriteProps {
 /**
  * Boton que indica si un elemento es favorito o no, y da la posibilidad de marcarlo/desmarcarlo
  *
- * Deberás tipar las propiedades si usas este componente
+ * Deberás tipar las propiedades si usas este componente aa 
  *
  * @returns un JSX element
  */
